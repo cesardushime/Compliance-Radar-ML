@@ -1,0 +1,26 @@
+Column,Lower Bound,Upper Bound,Outlier Count
+dept_age_years,4.5,8.5,51
+manager_experience_level,0.5,4.5,13
+supervisor_experience_level,0.5,4.5,11
+reporting_lag_days,1.0,1.0,170
+training_hours_quarterly,40.0,40.0,233
+violations_past_3years,0.0,0.0,75
+remediation_plan_active,0.0,0.0,72
+executive_support,1.0,1.0,162
+external_consulting,0.0,0.0,51
+engagement_programs,-1.5,2.5,0
+onboarding_program,1.0,1.0,102
+improvement_commitment,1.0,1.0,56
+digital_systems,1.0,1.0,88
+external_partnerships,0.0,0.0,142
+interdept_collaboration_score,4.0,4.0,219
+resource_availability_score,3.0,3.0,257
+external_interactions_frequency,3.0,3.0,286
+risk_exposure_operational,1.0,1.0,149
+risk_exposure_financial,2.0,2.0,327
+operational_health_index,1.5,5.5,58
+reporting_gaps_annual,-1.0,7.0,105
+audit_score_q1,50.5,73.7,187
+audit_score_q2,52.5,72.5,199
+compliance_score_final,52.5,72.5,194
+overall_risk_score,13.0,29.0,239
